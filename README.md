@@ -9,5 +9,5 @@ The object of the game is to guess the English translation of the Italian word c
 
 ** This is a Work in Progress **
 
-[view live sit](https://rossgoodliffe.github.io/italian-quiz)
+[view live site](https://rossgoodliffe.github.io/italian-quiz)
 
