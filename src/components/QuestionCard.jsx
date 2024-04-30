@@ -95,8 +95,8 @@ const QuestionCard = (props) => {
                     <h1>{question}</h1>
                 </Card.Title>
                 <ButtonGroup className='w-100'>
-                  <Button className='mx-1' variant="light" onClick={(e) => checkAnswer(answers[0])} value={answers[0]}>{answers[0]}</Button>
-                  <Button className='mx-1' variant="success" onClick={(e) => checkAnswer(answers[1])} value={answers[1]}>{answers[1]}</Button>
+                  <Button className='mx-1' variant="success" onClick={(e) => checkAnswer(answers[0])} value={answers[0]}>{answers[0]}</Button>
+                  <Button className='mx-1' variant="light" onClick={(e) => checkAnswer(answers[1])} value={answers[1]}>{answers[1]}</Button>
                   <Button className='mx-1' variant="danger" onClick={(e) => checkAnswer(answers[2])} value={answers[2]}>{answers[2]}</Button>
                 </ButtonGroup>
               </Card.Body>
