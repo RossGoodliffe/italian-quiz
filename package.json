@@ -2,7 +2,7 @@
   "name": "italian-words",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://rossgoodliffe.github.io/italian-quiz",
+  "homepage": "https://rossgoodliffe.github.io/italian-quiz/",
   "type": "module",
   "scripts": {
     "dev": "vite",
